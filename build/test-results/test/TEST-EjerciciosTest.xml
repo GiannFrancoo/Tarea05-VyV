@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EjerciciosTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-23T23:39:23" hostname="GIAN-PC" time="0.012">
+  <properties/>
+  <testcase name="num1NeutroNum2yNum3igualesEjercicioUnoTest()" classname="EjerciciosTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

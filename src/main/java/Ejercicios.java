@@ -46,13 +46,14 @@ public class Ejercicios {
     public boolean esVocalEjercicioTres(char c){
         c = Character.toUpperCase(c);
         boolean toReturn;
-        switch (c){
-            case 'A','E','I','O','U':
-                toReturn = true;
-                break;
-            default:
-                toReturn = false;
+        
+        if (c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U') {
+            toReturn = true;
         }
+        else{
+            toReturn = false;
+        }
+        
         return toReturn;
     }
 

@@ -79,7 +79,7 @@ public class EjerciciosTest {
 
     @Test
     public void esVocalEjercicioTres(){
-       char c = 'i';
+       char c = 'x';
        assertTrue(e.esVocalEjercicioTres(c));
     }
 
